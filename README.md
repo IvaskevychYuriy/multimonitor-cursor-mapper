@@ -1,0 +1,1 @@
+# multimonitor-cursor-mapper
